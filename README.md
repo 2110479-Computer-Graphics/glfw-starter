@@ -20,7 +20,6 @@ Installing GLFW can be done through your package manager or by downloading it fr
 ## Project Structure
 
 ```
-
 .
 ├── CMakeLists.txt
 ├── Makefile
@@ -32,13 +31,13 @@ Installing GLFW can be done through your package manager or by downloading it fr
 │       ├── glad.c
 │       └── glad.h
 └── src
-├── handler
-│   ├── initializer.hpp
-│   └── shader.hpp
-├── main.cpp
-└── shader
-├── fragment_shader.glsl
-└── vertex_shader.glsl
+    ├── handler
+    │   ├── initializer.hpp
+    │   └── shader.hpp
+    ├── main.cpp
+    └── shader
+        ├── fragment_shader.glsl
+        └── vertex_shader.glsl
 ```
 
 ## Building and Running the Project
