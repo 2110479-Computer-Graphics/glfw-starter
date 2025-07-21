@@ -2,3 +2,8 @@ build/
 
 *.exe
 *.out
+
+include/glad/
+include/KHR/
+
+.vscode/
