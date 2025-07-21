@@ -29,8 +29,8 @@ Installing GLFW can be done through your package manager or by downloading it fr
 │   ├── KHR
 │   │   └── khrplatform.h
 │   └── glad
-│   ├── glad.c
-│   └── glad.h
+│       ├── glad.c
+│       └── glad.h
 └── src
 ├── handler
 │   ├── initializer.hpp
