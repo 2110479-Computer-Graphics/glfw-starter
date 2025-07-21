@@ -13,7 +13,7 @@ This project requires the following libraries:
 
 ## Libraries Installation
 
-To install GLAD, you can use the [link](<[GLAD](https://glad.dav1d.de/#profile=compatibility&language=c&specification=gl&loader=on&api=gl%3D4.6)>) to generate the necessary files. Make sure to place the generated files in the `include/glad` directory.
+To install GLAD, you can use the [link](https://glad.dav1d.de/#profile=compatibility&language=c&specification=gl&loader=on&api=gl%3D4.6) to generate the necessary files. Make sure to place the generated files in the `include/glad` directory.
 
 Installing GLFW can be done through your package manager or by downloading it from the [GLFW website](https://www.glfw.org/download.html).
 
