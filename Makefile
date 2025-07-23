@@ -5,7 +5,7 @@ setup:
 	@mkdir -p include
 build:
 	@mkdir -p build
-	@cd build && cmake .. -DCMAKE_BUILD_TYPE=Release && make -j$(shell nproc)
+	@cd build && cmake .. -DCMAKE_BUILD_TYPE=Release && make -j
 run: $(TARGET)
 	@./$(TARGET)
 clean:
